@@ -70,4 +70,4 @@ const ComputersCanvas = () => {
   )
 }
 
-export default Computers
+export default Computers;
