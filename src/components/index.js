@@ -17,7 +17,7 @@ export {
   Tech,
   Experience,
   Works,
-  Feedbacks,
+  
   Contact,
   CanvasLoader,
   EarthCanvas, 
