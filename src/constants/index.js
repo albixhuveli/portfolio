@@ -115,61 +115,37 @@ import {
   ];
   
   const experiences = [
+
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Teaching Assistant (TA)",
+      company_name: "RF CUNY Research Foundation",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "March 2020 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Organized weekly meetings to assist students in comprehending data structures.",
+        "Educated students on the fundamentals of Python, Java and object-oriented programming concepts.",
+        "Led analysis on algorithm performance and provided recommendations for optimization.",
+        "Participating in code reviews and providing constructive feedback to other students.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Python Tutoring",
+      company_name: "NYC DOE",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jan 2020 - Aug 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Assisted students in learning the fundamentals of programming and showcased how to effectively create simple projects in JavaScript and Python.",
+        "Conducted one-on-one help on how to improve code implementation and time complexity while also helping  professors in grading extra credit work and after class tutoring",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    
   ];
   
-  const testimonials = [
+  /*const testimonials = [
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
@@ -195,70 +171,64 @@ import {
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
-  
+  */
   const projects = [
     {
-      name: "Car Rent",
+      name: "Discord Bot",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Programmable software application designed to automate tasks, moderate discussions, and interact with users within the Discord platform through the use of custom commands and scripts.",
       tags: [
         {
-          name: "react",
+          name: "Node.js",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Heroku Cloud",
           color: "green-text-gradient",
         },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
+        
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/albixhuveli/discord-bot",
     },
     {
-      name: "Job IT",
+      name: "Flooring Android App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Mobile application designed to assist users in selecting, visualizing, and estimating various types of flooring options for their homes or commercial spaces, offering a convenient and interactive way to explore different materials, patterns, and designs.",
       tags: [
         {
-          name: "react",
+          name: "Java",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Firebase",
           color: "green-text-gradient",
         },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
+      
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/albixhuveli/FlooringAppAndroid",
     },
     {
-      name: "Trip Guide",
+      name: "Amazon/Ebay Price Track App",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Software tool that enables users to monitor and track the prices of products listed on Amazon or eBay, providing real-time updates and alerts to assist users in making informed purchasing decisions.",
       tags: [
         {
-          name: "nextjs",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "BeautifulSoup",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "SendGrid",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/albixhuveli/AmazonTrackApp",
     },
   ];
   
