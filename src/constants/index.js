@@ -18,8 +18,12 @@ import {
     meta,
     starbucks,
     tesla,
+    rfcuny,
+    tutorcorps,
     shopify,
     carrent,
+    discordbot,
+    flooringapp,
     jobit,
     tripguide,
     threejs,
@@ -119,7 +123,7 @@ import {
     {
       title: "Teaching Assistant (TA)",
       company_name: "RF CUNY Research Foundation",
-      icon: tesla,
+      icon: rfcuny,
       iconBg: "#E6DEDD",
       date: "March 2020 - Present",
       points: [
@@ -131,8 +135,8 @@ import {
     },
     {
       title: "Python Tutoring",
-      company_name: "NYC DOE",
-      icon: shopify,
+      company_name: "NYC DOE - Tutor Corps",
+      icon: tutorcorps,
       iconBg: "#383E56",
       date: "Jan 2020 - Aug 2020",
       points: [
@@ -188,7 +192,7 @@ import {
         },
         
       ],
-      image: carrent,
+      image: discordbot,
       source_code_link: "https://github.com/albixhuveli/discord-bot",
     },
     {
@@ -206,7 +210,7 @@ import {
         },
       
       ],
-      image: jobit,
+      image: flooringapp,
       source_code_link: "https://github.com/albixhuveli/FlooringAppAndroid",
     },
     {
@@ -227,7 +231,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: jobit,
       source_code_link: "https://github.com/albixhuveli/AmazonTrackApp",
     },
   ];
