@@ -15,12 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
+    actioncity,
+    rescuefoster,
     rfcuny,
     tutorcorps,
-    shopify,
     carrent,
     discordbot,
     flooringapp,
@@ -119,7 +117,31 @@ import {
   ];
   
   const experiences = [
-
+    
+    {
+      title: "Software Engineer",
+      company_name: "Action City Comics",
+      icon: actioncity,
+      iconBg: "#383E56",
+      date: "Aug 2023 - Jan 2024",
+      points: [
+        "Created back-end web application for operations and data management.",
+        "Allows users to add, modify, and delete merchandise from the database directory.",
+        "Uses a SQL Server backend with C# and the .Net framework with JavaScript and Angular for UI.",
+      ],
+    },
+    {
+      title: "Software Engineer Intern",
+      company_name: "Rescue Foster",
+      icon: rescuefoster,
+      iconBg: "#383E56",
+      date: "Sept 2022 - Feb 2023",
+      points: [
+        "Implemented mobile-friendly layouts for various platforms and browsers using React.js and Bootstrap.",
+        "Developed clean, semantic markup with best practices utilizing HTML5, CSS3, and JavaScript libraries.",
+        "Implemented marketing promotional tactics that led to 34% growth in total social media shares and 27% increase in website traffic from sitewide social media posts across the platform",
+      ],
+    },
     {
       title: "Teaching Assistant (TA)",
       company_name: "RF CUNY Research Foundation",

@@ -21,10 +21,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import actioncity from "./company/actioncity.png";
+import rescuefoster from "./company/rescuefoster.png";
 import tutorcorps from "./company/tutorcorps.png";
 import rfcuny from "./company/rfcuny.png";
 
@@ -56,10 +54,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  actioncity,
+  rescuefoster,
   rfcuny,
   tutorcorps,
   carrent,
