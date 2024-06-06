@@ -8,7 +8,7 @@ import {
     html,
     css,
     reactjs,
-    redux,
+    sql,
     tailwind,
     nodejs,
     net,
@@ -83,8 +83,8 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "MS SQL Server",
+      icon: sql,
     },
     {
       name: "Tailwind CSS",
