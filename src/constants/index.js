@@ -11,9 +11,9 @@ import {
     redux,
     tailwind,
     nodejs,
-    mongodb,
+    net,
     git,
-    figma,
+    python,
     docker,
     actioncity,
     rescuefoster,
@@ -95,8 +95,8 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "net",
+      icon: net,
     },
     {
       name: "Three JS",
@@ -107,8 +107,8 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "python",
+      icon: python,
     },
     {
       name: "docker",
@@ -149,7 +149,7 @@ import {
       iconBg: "#E6DEDD",
       date: "March 2020 - Present",
       points: [
-        "Organized weekly meetings to assist students in comprehending data structures.",
+        "Organized weekly meetings to assist students in comprehending assignments.",
         "Educated students on the fundamentals of Python, Java and object-oriented programming concepts.",
         "Led analysis on algorithm performance and provided recommendations for optimization.",
         "Participating in code reviews and providing constructive feedback to other students.",
@@ -163,9 +163,8 @@ import {
       date: "Jan 2020 - Aug 2020",
       points: [
         "Assisted students in learning the fundamentals of programming and showcased how to effectively create simple projects in JavaScript and Python.",
-        "Conducted one-on-one help on how to improve code implementation and time complexity while also helping  professors in grading extra credit work and after class tutoring",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Conducted one-on-one help on how to improve code implementation and time complexity while also assisting in after class tutoring",
+        "Participating in code reviews and providing constructive feedback to other students.",
       ],
     },
     
@@ -202,7 +201,7 @@ import {
     {
       name: "Discord Bot",
       description:
-        "Programmable software application designed to automate tasks, moderate discussions, and interact with users within the Discord platform through the use of custom commands and scripts.",
+        "A project designed to automate web features for community service, custom commands and scripts, moderate discussions, and interact with users within the Discord platform through external API data scraping integration.",
       tags: [
         {
           name: "Node.js",
